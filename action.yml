@@ -1,4 +1,4 @@
-name: 'Terraform GitHub Actions'
+name: 'Terraform GitHub Actions Ops18 GCP'
 description: 'Runs Terraform commands via GitHub Actions.'
 author: 'HashiCorp, Inc. Terraform Team <terraform@hashicorp.com>'
 branding:
